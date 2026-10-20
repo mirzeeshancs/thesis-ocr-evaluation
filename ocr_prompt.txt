@@ -1,0 +1,4 @@
+Extract ONLY the exact text visible in the image.
+Return ONE plain text line.
+Do NOT explain.
+Do NOT add headings or lists.
