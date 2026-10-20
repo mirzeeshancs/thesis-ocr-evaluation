@@ -1,0 +1,15 @@
+# API Keys
+scripts/config.py.
+.env
+
+# Python Cache
+_pycache_/
+*.pyc
+
+# Temporary tracking files
+kpti_visited_test_images_*.txt
+
+# Large Dataset folders (images)
+KPTI-TestData/
+KPTI-TrainData/
+KPTI-ValidData/
